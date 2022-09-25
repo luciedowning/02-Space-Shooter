@@ -17,7 +17,6 @@ https://esahubble.org/images/opo1733a/
 https://www.download-free-fonts.com/details/16359/hyperspace-bold
 
 ## Future Development
-
 None
 
 ## Created by
